@@ -1,0 +1,38 @@
+table {
+width: 100%;
+border-collapse: collapse;
+}
+th,
+td {
+border-collapse: collapse;
+border: 1px solid;
+padding: 10px;
+text-align: left;
+}
+p.italic {
+font-style: italic;
+}
+.bold {
+font-weight: 600;
+}
+.strike {
+text-decoration-line: line-through;
+}
+.underline {
+text-decoration: underline;
+}
+.mark {
+background-color: yellow;
+}
+img.logotipas {
+vertical-align: middle;
+width: 120px;
+}
+.logotext {
+font-size: 24px; 
+padding: 20px; 
+font-weight: 600;
+}
+img {
+width: 100%;
+}
